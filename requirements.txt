@@ -8,6 +8,7 @@ cryptography==36.0.1
 ecdsa==0.17.0
 fastapi==0.73.0
 h11==0.13.0
+greenlet==1.1.2
 idna==3.3
 Jinja2==3.0.3
 MarkupSafe==2.1.1
